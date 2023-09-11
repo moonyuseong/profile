@@ -1,0 +1,25 @@
+body{
+    background-color: skyblue;
+}
+.container{
+    width: 300px;
+    height: 430px;
+    background-color: white;
+    position: relative;
+    left: 40%;
+    margin-top: 200px;
+    border-radius: 20px;
+}
+.Follow{
+    margin-top: 350px;
+    background-color: yellow;
+    width: 130px;
+    text-align: center;
+    margin-left: 670px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Follow button{ 
+    border: none;
+    background-color: yellow;
+}
